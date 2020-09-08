@@ -427,10 +427,6 @@ a:hover {
         margin: 45px 20px;
         height: 1000px;
     }
-    .background {
-        background-image: url(/images/bg-hero-mobile.svg);
-        height: 800px;
-    }
     .logo {
         width: 150px;
     }
